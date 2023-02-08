@@ -1,0 +1,26 @@
+id: A5D6222B5
+title: Mahāvyutpatti with sGra sbyor bam po gñis pa
+type: translation
+pechas:
+- I943283E9
+- IE6DD5534
+- IDE46995E
+- I4A8BB5AC
+- I3849BBF7
+- I9713E854
+source_metadata:
+  languages:
+  - zh
+  - en
+  - bo
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 16:24:59.826020
+  last_modified_at: 2023-02-08 16:24:59.826039
+alignment_to_base:
+  I943283E9/D76D: 7EDB
+  IE6DD5534/4A3F: 7EDB
+  IDE46995E/2B5E: 7EDB
+  I4A8BB5AC/C3F3: 7EDB
+  I3849BBF7/4634: 7EDB
+  I9713E854/A91A: 7EDB
